@@ -44,7 +44,7 @@ language understands the fields and what fields are nested in order to properly 
 
 ## Discover Application Enhancements ##
 
-There are three major enhancements made to the discover application by this plugin: field display priority;
+There are three major enhancements made to the discover application by this plugin: typeahead field support; field display priority;
 nested field support.
 
 ### Typeahead Support for Fields ###

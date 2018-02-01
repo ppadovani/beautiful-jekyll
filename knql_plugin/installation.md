@@ -4,11 +4,16 @@ title: KNQL Plugin - Installation
 comments: true
 ---
 
-Find the release that supports your version. The release numbers for this plugin mimic those of Kibana. So the 5.6.6 release of Kibana should use the 5.6.6-1.0.0 version of this plugin. To install this plugin:
+Find the release that supports your version. The release numbers for this plugin mimic those of Kibana. 
+So the 5.6.6 release of Kibana should use the 5.6.6-1.0.1 version of this plugin. 
+To install this plugin:
 
 1. Get a command line prompt in the home directory of your Kibana release
-2. Find the url for this plugin's supported build for your release of Kibana. For example the supported version of this plugin for current release of Kibana 5.6.6 is [](https://github.com/ppadovani/KibanaNestedSupportPlugin/releases/download/5.6.6-1.0.0/nested-fields-support-5.6.6-1.0.0.zip).
-3. Issue this command: bin/kibana-plugin install ["url-to-plugin-release-zip"]()
+2. Find the url for this plugin's supported build for your release of Kibana. 
+  For example the supported version of this plugin for current release of 
+  Kibana 5.6.6 is [5.6.6-1.0.0](https://github.com/ppadovani/KibanaNestedSupportPlugin/releases/download/5.6.6-1.0.1/nested-fields-support-5.6.6-1.0.0.zip).
+3. Issue this command: 
+  ```bin/kibana-plugin install https://github.com/ppadovani/KibanaNestedSupportPlugin/releases/download/5.6.6-1.0.1/nested-fields-support-5.6.6-1.0.0.zip```
 
 ## X-Pack Installation ##
 
