@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Grok the grok!
-image: /img/grok-definition.jpeg
+bigimg: /img/grok-definition.jpeg
 ---
 
 Ok, so I've used the term grok many times in my life and in many contexts. As I started putting this
