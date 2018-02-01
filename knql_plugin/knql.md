@@ -75,13 +75,13 @@ __NOTE:__ In order to avoid issues with native Kibana queries, indexPatterns tha
 only use the above query language.
 
 When typing the query, the query is constantly parsed. In this example a single letter 'l' was typed which did not match any known field in the index. Please note that the existing type ahead still works.
-![invalid field](kibana-nested/invalid-field.png)
+![invalid field](img/invalid-field.png)
 
 In this example, the query is not correctly formed as it doesn't contain a value:
-![invalid syntax](kibana-nested/syntax-error.png)
+![invalid syntax](img/syntax-error.png)
 
 Finally, if the user attempts to put a value that doesn't match the type of the field, the parser will send an error.
-![invalid value](kibana-nested/invalid-value.png)
+![invalid value](img/invalid-value.png)
 
 ### Nested Queries ###
 
