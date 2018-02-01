@@ -13,7 +13,9 @@ To install this plugin:
   For example the supported version of this plugin for current release of 
   Kibana 5.6.6 is [5.6.6-1.0.0](https://github.com/ppadovani/KibanaNestedSupportPlugin/releases/download/5.6.6-1.0.1/nested-fields-support-5.6.6-1.0.0.zip).
 3. Issue this command: 
-  ```bin/kibana-plugin install https://github.com/ppadovani/KibanaNestedSupportPlugin/releases/download/5.6.6-1.0.1/nested-fields-support-5.6.6-1.0.0.zip```
+  ~~~
+  bin/kibana-plugin install https://github.com/ppadovani/KibanaNestedSupportPlugin/releases/download/5.6.6-1.0.1/nested-fields-support-5.6.6-1.0.0.zip
+  ~~~
 
 ## X-Pack Installation ##
 
@@ -66,14 +68,14 @@ will not function as expected and is not supported.
 Aggregation support for indexPatterns that have nested turned on is generally seamless. As shown in the pie chart
 example below:
 
-![aggregation example](kibana-nested/aggregation-example.png)
+![aggregation example](img/aggregation-example.png)
 
 The above example split the slices by cars.make, then by cars.color then finally by family.givenName. The nested 
 aggregations that were required were automatically injected into the aggregation query based on the information
 stored in the indexPattern. Note that the third aggregation is a nested aggregation in a completely different
 set of nested objects from the previous aggregations. The query generated for the above example is shown below:
 
-```
+~~~
 {
      "size": 0,
      "query": {
@@ -130,7 +132,7 @@ set of nested objects from the previous aggregations. The query generated for th
        }
      }
    }
-   ```
+   ~~~
 
 There is one exception to this 'automatic' handling of aggregations. If you wish to have the parent aggregation be the
 aggregation used for the official count of the bucket contents, you must check the 'use count of parent document' box
