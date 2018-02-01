@@ -1,6 +1,7 @@
 ---
 layout: page
 title: KNQL Plugin - Overview
+comments: true
 ---
 
 ![simple model](img/simple-model.png)
@@ -40,3 +41,37 @@ language understands the fields and what fields are nested in order to properly 
 4. Update the underlying aggregation code to honor nested configuration within an indexPattern if present.
 
 5. **TBD** Update the discovery application to properly format and display nested data within the search results.
+
+## Discover Application Enhancements ##
+
+There are three major enhancements made to the discover application by this plugin: field display priority;
+nested field support.
+
+### Typeahead Support for Fields ###
+
+The existing typeahead support in Kibana has been enhanced to support showing you completions for
+fields that you are typing in the query bar. These suggestions appear at the bottom of the list of
+typeahead suggestions. Additionally, the typeahead area is now limited in height and will support a
+scroll bar. As you use fields from the typeahead list, they will bubble up towards the top of the
+list the more you use them per the existing Kibana functionality.
+
+### Field Display Priority ###
+
+This feature allows a Kibana administrator to configure the order and/or hide fields within the summary text
+of discover results. By ordering the field display priority search results can be tailored to the
+index contents in order to allow users to easily find what they might be looking for.
+
+### Nested Field Support ###
+
+The Discover application does not support nested objects when viewing a result's details. Instead it
+displays a JSON formatted string as shown below:
+
+![Discover Example](img/discover-example.png)
+
+In order to address this issue, a new document view has been added called 'Structured'. An example of this
+view is shown below:
+
+![Discover Nested](img/discover-nested.png)
+
+Arrays/Lists of nested objects are shown in a scrollable list. If an index contains nested objects,
+but is not marked as nested, the structured viewer will behave as the eisting table viewer.
