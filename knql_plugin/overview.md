@@ -1,6 +1,7 @@
 ---
 layout: page
-title: KNQL Plugin - Overview
+title: KNQL Plugin
+subtitle: Overview
 comments: true
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: page
-title: KNQL Plugin - Installation
+title: KNQL Plugin
+subtitle: Installation
 comments: true
 ---
 
