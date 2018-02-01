@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First post!
+title: Grok the grok!
 image: /img/grok-definition.jpeg
 ---
 
