@@ -5,7 +5,7 @@ image: /img/grok-definition.jpeg
 ---
 
 Ok, so I've used the term grok many times in my life and in many contexts. As I started putting this
-blog site together I had to ask myself:
+blog together I had to ask myself:
 
 ***Do I really grok the grok?***
 
