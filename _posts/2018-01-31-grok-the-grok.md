@@ -12,7 +12,7 @@ blog together I had to ask myself:
 
 Whenever I've used the term it was based more around my believing that the term meant 'to understand' 
 in really a pure form. For example, I may be having a discussion around the design of an 
-asynchronous messaging system when someone clarifies an opaqueness. This clarify I would equate 
+asynchronous messaging system when someone clarifies an opaqueness. This clarification I would equate 
 with my new found understanding means I now 'grok' it.
 
 However, reading the accepted definition for grok leads me to a different understanding. To grok 
