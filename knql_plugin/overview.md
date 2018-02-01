@@ -1,0 +1,43 @@
+---
+layout: page
+title: Kibana Nested Support Plugin
+description: An Overview
+---
+
+![simple model](img/simple-model.png)
+
+The above model illustrates a simple parent child relationship that might exist in one an indexed document. 
+The home document contains an address, one or more rooms, one or more family members, and one or more cars. 
+Within Elasticsearch this entity can be stored as multiple documents in a parent child relationship, or as a single 
+document where the child objects are 'nested'. This plugin uses this model for testing purposes, and the mapping and 
+python script used to populate Elasticsearch with test data is contained in the scripts directory of this project.
+
+For standard Elasticsearch queries against the Elasticsearch API, querying against such an index requires some special 
+handling and knowledge around what fields are actually nested in the index schema and what the nested path is to the 
+child object. For additional details on nested queries please see 
+[nested query documentation](https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-nested-query.html 
+nested query documentation). 
+
+## The Issue ##
+
+1. Kibana doesn't parse the query entered, and instead relies on Elasticsearch to [parse the query for it](https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-query-string-query.html parse the query for it). This leads to several issues:
+  * No feedback when a query contains a field that doesn't exist in the index and returns no results.
+  * No feedback if an invalid type for a field is used (date for a boolean field) and returns no results.
+  * Feedback provided for invalid query syntax returns as an exception stack trace that can be difficult to decipher.
+2. Kibana doesn't know what fields are nested due to the way it loads the index mapping when an index is configured.
+
+## Solution ##
+
+This plugin solves the nested issue with the following changes:
+
+1. Add a management section to enable/disable nested support for a particular indexPattern. This will add the needed 
+nested path data to each nested field and flip a boolean flag on the indexPattern itself.
+
+2. Add a new SQL like query language: Kibana Nested Query Language (KNQL) that is parsed within Kibana and outputs native elasticsearch queries. This 
+language understands the fields and what fields are nested in order to properly create native queries.
+
+3. Update the Discovery application to use the new query parser if an indexPattern has a nested flag set to true
+
+4. Update the underlying aggregation code to honor nested configuration within an indexPattern if present.
+
+5. **TBD** Update the discovery application to properly format and display nested data within the search results.

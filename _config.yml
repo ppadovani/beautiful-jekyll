@@ -25,9 +25,9 @@ description: Attempting to grok one day at a time.
 navbar-links:
   About Me: "aboutme"
   Kibana Nested Support Plugin:
-    - Overview: "plugin_overview"
-    - Installation: "plugin_installation"
-    - KNQL Language: "plugin_knql"
+    - Overview: "knql_plugin/overview"
+    - Installation: "knql_plugin/installation"
+    - KNQL Language: "knql_plugin/knql"
   #Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
