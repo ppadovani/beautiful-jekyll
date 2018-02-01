@@ -24,7 +24,7 @@ description: Attempting to grok one day at a time.
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Kibana Nested Support Plugin:
+  KNQL Plugin:
     - Overview: "knql_plugin/overview"
     - Installation: "knql_plugin/installation"
     - KNQL Language: "knql_plugin/knql"

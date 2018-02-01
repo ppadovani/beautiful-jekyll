@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Kibana Nested Support Plugin
-description: An Overview
+title: KNQL Plugin - Overview
 ---
 
 ![simple model](img/simple-model.png)

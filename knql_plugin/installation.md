@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kibana Nested Support Plugin
+title: KNQL Plugin - Installation
 description: Installation and Configuration
 ---
 
