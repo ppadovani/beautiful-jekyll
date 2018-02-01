@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: 
+title: Daily Grok
 
 # Short description of your site
-description: This plugin adds support for nested fields to Kibana.
+description: Attempting to grok one day at a time.
 
 # --- Navigation bar options --- #
 
