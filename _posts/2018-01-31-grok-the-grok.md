@@ -3,12 +3,12 @@ layout: post
 title: Grok the grok!
 ---
 
-![grok](/img/grok-definition.png) 
-
 Ok, so I've used the term grok many times in my life and in many contexts. As I started putting this
 blog together I had to ask myself:
 
 ***Do I really grok the grok?***
+
+![grok](/img/grok-definition.png) 
 
 Whenever I've used the term it was based more around my believing that the term meant 'to understand' 
 in really a pure form. For example, I may be having a discussion around the design of an 
