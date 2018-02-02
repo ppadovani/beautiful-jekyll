@@ -22,10 +22,10 @@ For my next example, I will ask a simple question:
 
 ![napoleon](/img/napoleon_1809.jpg)
 
-Ok, how many of you thought he was considered short for time? I did. I intuitively knew he was short. 
+Ok, how many of you thought he was considered short for his time? I did. I intuitively knew he was short. 
 I grokked it. 
 
-In fact he was **5'6", slightly above average for the time**. I was wrong.
+In fact he was **5'6", slightly above average for his time**. I was wrong.
 
 Here is the thing. I didn't change my intuitive understanding about this ***until I was shown the proof.*** 
 If someone had come up to me on the street and told me this fact, I'm not sure I would internalize
