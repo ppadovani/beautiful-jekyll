@@ -43,6 +43,6 @@ to the software itself. No one is immune from this, not even I.
 
 In this day of polarizing opinions, half-truths, and alternative facts I believe that many people 
 allow their desire and beliefs to cloud their objectivity. This in turn creates the illusion of grok
-within their knowledge base and potentially clouding their judgement.
+within their knowledge base potentially clouding their judgement.
 
 ***Beware the illusion of grok!***
