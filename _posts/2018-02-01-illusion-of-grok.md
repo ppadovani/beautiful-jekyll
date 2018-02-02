@@ -19,6 +19,7 @@ your instinct of what you were seeing and rationalized that this was merely an o
 For my next example, I will ask a simple question:
 
 ***Was Napoléon Bonaparte short?*** 
+
 ![napoleon](/img/napoleon_1809.jpg)
 
 Ok, how many of you thought he was considered short for time? I did. I intuitively knew he was short. 
