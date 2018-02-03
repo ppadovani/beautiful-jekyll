@@ -5,7 +5,7 @@ title: The shortcut to nowhere.
 
 Since last fall, I've been mentoring a [FIRST](https://www.firstinspires.org/robotics/ftc)
 robotics team at my kids high school. I've guided and watched this team design and build a robot to
-compete with against other schools. They spent time and effort creating some CAD models, but in
+compete with other schools. They spent time and effort creating some CAD models, but in
 the end they took shortcuts during the build. Duct tape and zip ties were most definitely harmed
 in the making of said robot. They did reasonably well during their first two meets, but the robot began
 to have significant technical issues during the third.
@@ -17,7 +17,7 @@ decisions are made in the software industry. I've been in the industry for many 
 and have seen shortcuts made by ***both*** engineers and management that have come back 
 and haunted them. 
 
-![rube goldberg](https://i.imgur.com/ynqc5zu.gifv)
+![rube goldberg](https://i.imgur.com/ynqc5zu.gif)
 
 Years ago, I was tasked with rewriting a Java applet that ran in a web browser to a Javascript
 equivalent. The main thrust behind this effort was to avoid some of the support costs incurred

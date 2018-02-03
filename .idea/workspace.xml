@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="074973de-a3f5-4f1d-bba3-aadea6df5079" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-02-02-shortcut-to-nowhere.md" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-02-02-shortcut-to-nowhere.md" afterPath="$PROJECT_DIR$/_posts/2018-02-02-shortcut-to-nowhere.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -57,8 +56,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2018-02-02-shortcut-to-nowhere.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="705">
-                <caret line="47" column="40" lean-forward="false" selection-start-line="47" selection-start-column="40" selection-end-line="47" selection-end-column="40" />
+              <first_editor relative-caret-position="285">
+                <caret line="19" column="48" lean-forward="false" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -270,12 +269,12 @@
       <updated>1517452355427</updated>
       <workItem from="1517452356835" duration="6464000" />
       <workItem from="1517461432094" duration="2585000" />
-      <workItem from="1517492372163" duration="8211000" />
+      <workItem from="1517492372163" duration="8361000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17260000" />
+    <option name="totallyTimeSpent" value="17410000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1177" extended-state="6" />
@@ -489,8 +488,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-02-02-shortcut-to-nowhere.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="705">
-            <caret line="47" column="40" lean-forward="false" selection-start-line="47" selection-start-column="40" selection-end-line="47" selection-end-column="40" />
+          <first_editor relative-caret-position="285">
+            <caret line="19" column="48" lean-forward="false" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
             <folding />
           </first_editor>
           <second_editor />
