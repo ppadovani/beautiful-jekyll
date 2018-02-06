@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="074973de-a3f5-4f1d-bba3-aadea6df5079" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-02-05-get-to-it-eventually.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/blog-post-times.png" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="074973de-a3f5-4f1d-bba3-aadea6df5079" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,12 +11,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2018-02-05-get-to-it-eventually.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2018-02-05-get-to-it-eventually.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2018-02-05-get-to-it-eventually.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="225">
-                <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <first_editor relative-caret-position="75">
+                <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018-02-06-new-addiction.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-02-06-new-addiction.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="3" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -59,6 +68,7 @@
         <option value="$PROJECT_DIR$/_posts/2018-02-02-shortcut-to-nowhere.md" />
         <option value="$PROJECT_DIR$/knql_plugin/knql.md" />
         <option value="$PROJECT_DIR$/_posts/2018-02-05-get-to-it-eventually.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-02-06-new-addiction.md" />
       </list>
     </option>
   </component>
@@ -238,12 +248,12 @@
       <workItem from="1517452356835" duration="6464000" />
       <workItem from="1517461432094" duration="2585000" />
       <workItem from="1517492372163" duration="8696000" />
-      <workItem from="1517671824746" duration="12361000" />
+      <workItem from="1517671824746" duration="12976000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30106000" />
+    <option name="totallyTimeSpent" value="30721000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1177" extended-state="6" />
@@ -501,8 +511,19 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-02-05-get-to-it-eventually.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="225">
-            <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <first_editor relative-caret-position="75">
+            <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-02-06-new-addiction.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="3" />
             <folding />
           </first_editor>
           <second_editor />
