@@ -18,7 +18,7 @@ the integrated battery. Really though, look at the consumer electronics industry
 new technologies like 4k flatscreens. Do you **really** need that over what you might currently have?
 
 Ok, so what about outside the consumer space? I'm a developer by trade and a geek by nature, and new
-libraries, frameworks or tools the promise to make my job easier are always appealing. What about 
+libraries, frameworks or tools that promise to make my job easier are always appealing. What about 
 Javascript frameworks? Well as it happens, this new addiction seems to affect Javascript libraries as well.
 
 ![https://stackoverflow.blog/2018/01/11/brutal-lifecycle-javascript-frameworks/](/img/javascript-trends-minor.png)
@@ -36,7 +36,6 @@ it comes down to a business decision around the risks involved.
   + Stability
   + Support
   + Release cycle
-* 
 
 Sometimes you understand the risks, and have to adopt the new technology anyway. I worked for a company that
 decided to roll out Apache Kafka in a big way. At the time we knew that there were maturity issues, training costs
