@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="074973de-a3f5-4f1d-bba3-aadea6df5079" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/page.html" afterPath="$PROJECT_DIR$/_layouts/page.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aboutme.md" afterPath="$PROJECT_DIR$/aboutme.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,8 +17,8 @@
         <entry file="file://$PROJECT_DIR$/aboutme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="75">
-                <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <first_editor relative-caret-position="315">
+                <caret line="21" column="41" lean-forward="false" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -126,8 +125,8 @@
         <option value="$PROJECT_DIR$/_posts/2018-02-06-new-addiction.md" />
         <option value="$PROJECT_DIR$/_layouts/two_column.html" />
         <option value="$PROJECT_DIR$/_config.yml" />
-        <option value="$PROJECT_DIR$/aboutme.md" />
         <option value="$PROJECT_DIR$/_layouts/page.html" />
+        <option value="$PROJECT_DIR$/aboutme.md" />
       </list>
     </option>
   </component>
@@ -173,6 +172,11 @@
               <item name="ppadovani.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="ppadovani.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="_layouts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ppadovani.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ppadovani.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ppadovani.github.io" type="b2602c69:ProjectViewProjectNode" />
@@ -329,12 +333,12 @@
       <workItem from="1517492372163" duration="8696000" />
       <workItem from="1517671824746" duration="12976000" />
       <workItem from="1517920345896" duration="212000" />
-      <workItem from="1517926357966" duration="1431000" />
+      <workItem from="1517926357966" duration="3231000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32364000" />
+    <option name="totallyTimeSpent" value="34164000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-3" y="23" width="2560" height="1376" extended-state="6" />
@@ -644,8 +648,8 @@
     <entry file="file://$PROJECT_DIR$/aboutme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="75">
-            <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <first_editor relative-caret-position="315">
+            <caret line="21" column="41" lean-forward="false" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
             <folding />
           </first_editor>
           <second_editor />
