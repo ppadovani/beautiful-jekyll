@@ -1,13 +1,13 @@
 ---
 layout: post
 title: 
-bigimg: /tmp/No-Pain-No-Gain.jpg
+bigimg: /img/No-Pain-No-Gain.jpg
 ---
 
 This blog isn't the best thing since sliced bread. Heck, the writing isn't even all that great, and the subject matter
 seems to be a bit shallow (yes I may be overly self critical). So why do I bother? Why am I doing this?
 
-![ted.com](overcome_fears_3280963892.jpg)
+![ted.com](/img/overcome_fears_3280963892.jpg)
 
 Fear. Plain and simple. 
 
