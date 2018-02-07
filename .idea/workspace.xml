@@ -56,8 +56,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2018-02-07-no-pain-no-gain.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="135">
-                <caret line="9" column="16" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+              <first_editor relative-caret-position="405">
+                <caret line="27" column="81" lean-forward="false" selection-start-line="27" selection-start-column="81" selection-end-line="27" selection-end-column="81" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -353,7 +353,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34944000" />
+    <option name="totallyTimeSpent" value="35022000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1177" extended-state="6" />
@@ -802,8 +802,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-02-07-no-pain-no-gain.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="135">
-            <caret line="9" column="16" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          <first_editor relative-caret-position="405">
+            <caret line="27" column="81" lean-forward="false" selection-start-line="27" selection-start-column="81" selection-end-line="27" selection-end-column="81" />
             <folding />
           </first_editor>
           <second_editor />

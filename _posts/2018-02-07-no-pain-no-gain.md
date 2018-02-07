@@ -25,7 +25,7 @@ facebook post... or worse a design document for work.
 
 **What if there were problems with my design?**
 
-So, when I had to build a formal place for documentation around a plugin for [Kibana](https://www.elastic.co/products/kibana) I
+So, when I had to build a formal place for documentation around a plugin I wrote for [Kibana](https://www.elastic.co/products/kibana) I
 ran across this set of cool libraries that would allow me to blog easily enough. I took the plunge and turned on the feature, and
 thought long and hard about what I wanted to write about. I decided that I wanted to write about what I know, or thought I knew. Hence the term 'grok'.
 
