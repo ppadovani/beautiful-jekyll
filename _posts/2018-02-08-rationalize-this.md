@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rationalize this!
-bigimg: /tmg/3-maths-formula-on-chalkboard-setsiri-silapasuwanchai.jpg
+bigimg: /img/3-maths-formula-on-chalkboard-setsiri-silapasuwanchai.jpg
 ---
 
 Have you ever been in the position of having to assert a position or thought, except you couldn't quite rationalize it?
