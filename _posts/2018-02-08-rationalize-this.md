@@ -11,7 +11,9 @@ a period of time without the exact knowledge about **WHY** it was the solution.
 Each and every one of us has the capacity to solve problems in ways that I don't think can still be fully explained. These problem 
 solving abilities are part of what bring about the incredible creativity the human race has managed to cultivate. In some 
 cases we can find a solution to a problem far faster than a computer system can, but we may not be able to fully 
-articulate **WHY** it is the answer.![einstein](/img/Albert-Einstein.jpg){: .image-left } 
+articulate **WHY** it is the answer.
+
+![einstein](/img/Albert-Einstein.jpg)
 
 This *inner einstein* is our subconscious evaluating and **rationalizing** our experiences and memories in order to solve
 problems we have consciosly deemed needed solutions. I don't know about you, but I find myself sometimes unable to channel 
