@@ -15,8 +15,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2018-02-09-lead-follow-or.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <first_editor relative-caret-position="30">
+                <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -63,6 +63,7 @@
         <option value="$PROJECT_DIR$/_posts/2018-02-07-no-pain-no-gain.md" />
         <option value="$PROJECT_DIR$/_posts/rationalize-this.md" />
         <option value="$PROJECT_DIR$/_posts/2018-02-08-rationalize-this.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-02-09-lead-follow-or.md" />
       </list>
     </option>
   </component>
@@ -279,7 +280,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36482000" />
+    <option name="totallyTimeSpent" value="36720000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="1920" height="1177" extended-state="6" />
@@ -730,8 +731,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-02-09-lead-follow-or.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <first_editor relative-caret-position="30">
+            <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
             <folding />
           </first_editor>
           <second_editor />
