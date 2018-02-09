@@ -32,4 +32,4 @@ Sleep on it.
 
 Take a walk.
 
-You neve know, your inner einstein might just provide you the answer.
+You never know, your inner einstein might just provide you the answer.
