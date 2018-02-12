@@ -2,8 +2,7 @@
 _site
 .sass-cache
 .vagrant
-.idea/
-.idea/workspace.xml
+/.idea/
 
 # general
 .DS_Store
