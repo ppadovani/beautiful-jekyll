@@ -31,6 +31,10 @@ layout: base
         </div>
       {% endif %}
 
+      {% if page.author_name %}
+        {% include  author.html %}
+      {% endif %}
+
       <article role="main" class="blog-post">
         {{ content }}
       </article>
@@ -70,6 +74,7 @@ layout: base
           {% include disqus.html %}
         </div>
       {% endif %}
+
     </div>
   </div>
 </div>
