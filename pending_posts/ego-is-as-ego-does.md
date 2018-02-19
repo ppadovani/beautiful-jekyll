@@ -1,1 +1,0 @@
-Dangers of ego blindeness
