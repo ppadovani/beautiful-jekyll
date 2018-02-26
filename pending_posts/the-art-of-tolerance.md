@@ -1,0 +1,3 @@
+Talk about tolerance of others... things that annoy but are not destructive...
+
+co-workers, family and friends.
