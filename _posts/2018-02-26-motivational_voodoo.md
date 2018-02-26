@@ -49,7 +49,7 @@ done this at some point. (I'm looking at you parents out there!)
 
 Lets be honest, we are talking not about motivating others, as much as we are talking about motivating ourselves. Does
 anyone, deep down, believe that this type of motivation voodoo is effective? I mean punishing yourself, just isn't a
-goo thing to do in my opinion.
+good thing to do in my opinion.
 
 ### Motivational Realities
 
