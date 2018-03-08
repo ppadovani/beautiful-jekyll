@@ -5,6 +5,18 @@ subtitle: Installation
 comments: true
 ---
 
+|Kibana Release|Plugin Version Link|
+|-------|-------|
+|6.2.1|[1.0.2](https://github.com/ppadovani/KibanaNestedSupportPlugin/releases/download/6.1.3-1.0.2/nested-fields-support-6.2.1-1.0.2.zip)|
+|6.1.3|[1.0.2](https://github.com/ppadovani/KibanaNestedSupportPlugin/releases/download/6.1.3-1.0.2/nested-fields-support-6.1.3-1.0.2.zip)|
+|6.1.2|[1.0.3](https://github.com/ppadovani/KibanaNestedSupportPlugin/releases/download/6.1.3-1.0.2/nested-fields-support-6.1.2-1.0.3.zip)|
+|6.1.1|[1.0.1](https://github.com/ppadovani/KibanaNestedSupportPlugin/releases/download/6.1.3-1.0.2/nested-fields-support-6.1.1-1.0.1.zip)|
+|6.0.1|[1.1.1](https://github.com/ppadovani/KibanaNestedSupportPlugin/releases/download/6.1.3-1.0.2/nested-fields-support-6.0.1-1.1.1.zip)|
+|5.6.6|[1.0.2](https://github.com/ppadovani/KibanaNestedSupportPlugin/releases/download/6.1.3-1.0.2/nested-fields-support-5.6.6-1.0.2.zip)|
+|5.6.5|[1.0.3](https://github.com/ppadovani/KibanaNestedSupportPlugin/releases/download/6.1.3-1.0.2/nested-fields-support-5.6.5-1.0.3.zip)|
+|5.6.4|[1.0.1](https://github.com/ppadovani/KibanaNestedSupportPlugin/releases/download/6.1.3-1.0.2/nested-fields-support-5.6.4-1.0.1.zip)|
+|5.5.3|[1.0.3](https://github.com/ppadovani/KibanaNestedSupportPlugin/releases/download/6.1.3-1.0.2/nested-fields-support-5.5.3-1.0.3.zip)|
+
 Find the release that supports your version. The release numbers for this plugin mimic those of Kibana. 
 So the 5.6.6 release of Kibana should use the 5.6.6-1.0.1 version of this plugin. 
 To install this plugin:
