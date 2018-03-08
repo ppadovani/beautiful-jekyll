@@ -5,6 +5,9 @@ subtitle: Installation
 comments: true
 ---
 
+***Latest KNQL Plugin Releases***
+<div class="datatable-begin"></div>
+
 |Kibana Release|Plugin Version Link|
 |-------|-------|
 |6.2.1|[1.0.2](https://github.com/ppadovani/KibanaNestedSupportPlugin/releases/download/6.1.3-1.0.2/nested-fields-support-6.2.1-1.0.2.zip)|
@@ -16,6 +19,8 @@ comments: true
 |5.6.5|[1.0.3](https://github.com/ppadovani/KibanaNestedSupportPlugin/releases/download/6.1.3-1.0.2/nested-fields-support-5.6.5-1.0.3.zip)|
 |5.6.4|[1.0.1](https://github.com/ppadovani/KibanaNestedSupportPlugin/releases/download/6.1.3-1.0.2/nested-fields-support-5.6.4-1.0.1.zip)|
 |5.5.3|[1.0.3](https://github.com/ppadovani/KibanaNestedSupportPlugin/releases/download/6.1.3-1.0.2/nested-fields-support-5.5.3-1.0.3.zip)|
+
+<div class="datatable-end"></div>
 
 Find the release that supports your version. The release numbers for this plugin mimic those of Kibana. 
 So the 5.6.6 release of Kibana should use the 5.6.6-1.0.1 version of this plugin. 
