@@ -70,7 +70,7 @@ design burden.
 
 When you start to design in features because you think they will be needed, but haven't been asked for. Be very critical
 when you start injecting additional features outside the initial scope. Ask hard questions: ***When would this be used? 
-Now? A year from now?*** If the answer is not in the near term, drop it and move on. I must admin, I've even failed with 
+Now? A year from now?*** If the answer is not in the near term, drop it and move on. I must admit, I've even failed with 
 this one.  
 
 ### Over thinking
