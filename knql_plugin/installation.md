@@ -18,7 +18,7 @@ comments: true
 |5.6.6|[5.6.6-1.0.2](https://github.com/ppadovani/KibanaNestedSupportPlugin/releases/download/6.1.3-1.0.2/nested-fields-support-5.6.6-1.0.2.zip)|
 |5.6.5|[5.6.5-1.0.3](https://github.com/ppadovani/KibanaNestedSupportPlugin/releases/download/6.1.3-1.0.2/nested-fields-support-5.6.5-1.0.3.zip)|
 |5.6.4|[5.6.4-1.0.1](https://github.com/ppadovani/KibanaNestedSupportPlugin/releases/download/6.1.3-1.0.2/nested-fields-support-5.6.4-1.0.1.zip)|
-|5.5.3|[5.5.3-1.0.3](https://github.com/ppadovani/KibanaNestedSupportPlugin/releases/download/6.1.3-1.0.2/nested-fields-support-5.5.3-1.0.3.zip)|
+|5.5.3|[5.5.3-1.0.4](https://github.com/ppadovani/KibanaNestedSupportPlugin/releases/download/6.1.3-1.0.2/nested-fields-support-5.5.3-1.0.4.zip)|
 
 <div class="datatable-end"></div>
 
