@@ -29,7 +29,7 @@ comments: true
 
 <div class="datatable-end"></div>
 
-Find the release that supports your version. The release numbers for this plugin mimic those of Kibana. 
+Find the release that supports your version of Kibana. The release numbers for this plugin mimic those of Kibana. 
 So the 5.6.6 release of Kibana should use the 5.6.6-1.0.1 version of this plugin. 
 To install this plugin:
 
