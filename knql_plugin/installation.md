@@ -20,7 +20,7 @@ comments: true
 |6.1.2|[6.1.2-1.0.8](https://github.com/ppadovani/KibanaNestedSupportPlugin/releases/download/6.1.2-1.0.8/nested-fields-support-6.1.2-1.0.8.zip)|
 |6.1.1|[6.1.1-1.0.6](https://github.com/ppadovani/KibanaNestedSupportPlugin/releases/download/6.1.1-1.0.6/nested-fields-support-6.1.1-1.0.6.zip)|
 |6.0.1|[6.0.1-1.1.6](https://github.com/ppadovani/KibanaNestedSupportPlugin/releases/download/6.0.1-1.1.6/nested-fields-support-6.0.1-1.1.6.zip)|
-|5.6.9|[5.6.9-1.0.2](https://github.com/ppadovani/KibanaNestedSupportPlugin/releases/download/5.6.9-1.0.2/nested-fields-support-5.6.9-1.0.2.zip)|
+|5.6.9|[5.6.9-1.0.3](https://github.com/ppadovani/KibanaNestedSupportPlugin/releases/download/5.6.9-1.0.3/nested-fields-support-5.6.9-1.0.3.zip)|
 |5.6.8|[5.6.8-1.0.2](https://github.com/ppadovani/KibanaNestedSupportPlugin/releases/download/5.6.8-1.0.2/nested-fields-support-5.6.8-1.0.2.zip)|
 |5.6.7|[5.6.7-1.0.3](https://github.com/ppadovani/KibanaNestedSupportPlugin/releases/download/5.6.7-1.0.3/nested-fields-support-5.6.7-1.0.3.zip)|
 |5.6.6|[5.6.6-1.0.5](https://github.com/ppadovani/KibanaNestedSupportPlugin/releases/download/5.6.6-1.0.5/nested-fields-support-5.6.6-1.0.5.zip)|
